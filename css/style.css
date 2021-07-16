@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-section{    
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section-one{
+    background-image: url(../assets/background3_black_gold.jpg);
+}
+
+.section-two{
+    background-image: url(../assets/background4_black_gold_black.jpg);    
+}
+
+.card-container{
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    padding: 25px;
+    max-width: 450px;
+}
+
+form{
+    display: grid;
+}
+
+input{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 12px;
+    background: black;
+    color: blanchedalmond;
+}
+
+footer{
+    height: 150px;
+    padding: 25px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
