@@ -1,4 +1,4 @@
-GAMA ACADENT
+GAMA ACADEMY
 
 Desafio #1: Ecommerce (Site Oficial / Landing page)
 
